@@ -1,0 +1,58 @@
+@import url("./fonts.css");
+
+:root {
+  --swiper-theme-color: #d2010d !important;
+}
+
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+h1.titulo {
+  font-family: "Regular";
+  color: #d2010d;
+  text-transform: capitalize;
+}
+
+.Tiras {
+  width: 100%;
+}
+
+.Tiras img {
+  width: 90%;
+  max-width: 1200px;
+}
+
+.TiraMap {
+  width: 100%;
+  margin: 1em 0;
+}
+
+.TiraMap img{
+  width: 70%;
+}
+
+@media only screen and (max-width: 480px) {
+  h1.titulo {
+    font-size: 1.5em;
+  }
+
+  .TiraMap {
+    width: 100%;
+    padding: 1em 3em;
+  }
+
+  .TiraMap img{
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 770px) and (orientation: landscape) {
+  h1.titulo {
+    font-size: 1.5em;
+  }
+}

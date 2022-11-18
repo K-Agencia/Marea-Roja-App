@@ -1,0 +1,43 @@
+.content-slider{
+   width: 80%;
+   margin: 0 auto;
+}
+
+/* .mayoristas{
+   max-height: 680px;
+}
+
+.normal{
+   max-height: 500px;
+} */
+
+.img-slider{
+   width: auto;
+   max-height: 500px;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   margin: 0 0 2em;
+}
+
+@media only screen and (max-width: 480px) {
+   .content-slider{
+      width: 90%;
+      margin: 0 auto;
+   }
+
+   .img-slider{
+      width: auto;
+      max-height: 200px;
+   }
+}
+
+@media only screen and (max-width: 770px) and (orientation: landscape) {
+   .content-slider{
+      width: 95%;
+      margin: 0 auto;
+   }
+
+   .img-slider{
+      width: auto;
+      max-height: 400px;
+   }
+}
