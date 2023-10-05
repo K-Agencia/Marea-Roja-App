@@ -52,10 +52,21 @@ let farmacias23 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias23
 let farmacias24 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias24.jpg';
 
 // TIENDAS MAYORISTAS
+let planInvencibles00 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles00.jpg';
 let planInvencibles01 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles01.jpg';
 let planInvencibles02 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles02.jpg';
 let planInvencibles03 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles03.jpg';
 let planInvencibles04 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles04.jpg';
+let planInvencibles05 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles05.jpg';
+let planInvencibles06 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles06.jpg';
+let planInvencibles07 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles07.jpg';
+let planInvencibles08 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles08.jpg';
+let planInvencibles09 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles09.jpg';
+let planInvencibles10 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles10.jpg';
+let planInvencibles11 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles11.jpg';
+let planInvencibles12 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles12.jpg';
+let planInvencibles13 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles13.jpg';
+let planInvencibles14 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles14.jpg';
 
 // PORTAFOLIO
 let Portafolio01 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio01.jpg';
@@ -92,10 +103,10 @@ let Portafolio31 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafoli
 let Portafolio32 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio32.jpg';
 let Portafolio33 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio33.jpg';
 let Portafolio34 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio34.jpg';
-let Portafolio35 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio35.jpg';
-let Portafolio36 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio36.jpg';
-let Portafolio37 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio37.jpg';
-let Portafolio38 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio38.jpg';
+// let Portafolio35 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio35.jpg';
+// let Portafolio36 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio36.jpg';
+// let Portafolio37 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio37.jpg';
+// let Portafolio38 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio38.jpg';
 
 // TIRAS
 let Tira_PreciosVenta = 'https://imagenes.kagencia.com/MareaRoja/tiras/preciosVenta.jpg';
@@ -162,10 +173,21 @@ export const ImgSliders = {
       { imgSlider: farmacias24 }
    ],
    PlanInvencibles:[
+      { imgSlider: planInvencibles00 },
       { imgSlider: planInvencibles01 },
       { imgSlider: planInvencibles02 },
       { imgSlider: planInvencibles03 },
       { imgSlider: planInvencibles04 },
+      { imgSlider: planInvencibles05 },
+      { imgSlider: planInvencibles06 },
+      { imgSlider: planInvencibles07 },
+      { imgSlider: planInvencibles08 },
+      { imgSlider: planInvencibles09 },
+      { imgSlider: planInvencibles10 },
+      { imgSlider: planInvencibles11 },
+      { imgSlider: planInvencibles12 },
+      { imgSlider: planInvencibles13 },
+      { imgSlider: planInvencibles14 },
    ],
    Portafolio:[
       {imgSlider: Portafolio01},
@@ -202,9 +224,9 @@ export const ImgSliders = {
       {imgSlider: Portafolio32},
       {imgSlider: Portafolio33},
       {imgSlider: Portafolio34},
-      {imgSlider: Portafolio35},
-      {imgSlider: Portafolio36},
-      {imgSlider: Portafolio37},
-      {imgSlider: Portafolio38}
+      // {imgSlider: Portafolio35},
+      // {imgSlider: Portafolio36},
+      // {imgSlider: Portafolio37},
+      // {imgSlider: Portafolio38}
    ]
 }
