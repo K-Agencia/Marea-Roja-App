@@ -24,6 +24,12 @@ let droguerias22 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/drogueria
 let droguerias23 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias23.jpg';
 let droguerias24 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias24.jpg';
 let droguerias25 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias25.jpg';
+let droguerias26 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias26.jpg';
+let droguerias27 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias27.jpg';
+let droguerias28 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias28.jpg';
+let droguerias29 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias29.jpg';
+let droguerias30 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias30.jpg';
+let droguerias31 = 'https://imagenes.kagencia.com/MareaRoja/droguerias/droguerias31.jpg';
 
 // DROGERIAS
 let farmacias01 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias01.jpg';
@@ -50,9 +56,15 @@ let farmacias21 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias21
 let farmacias22 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias22.jpg';
 let farmacias23 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias23.jpg';
 let farmacias24 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias24.jpg';
+let farmacias25 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias25.jpg';
+let farmacias26 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias26.jpg';
+let farmacias27 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias27.jpg';
+let farmacias28 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias28.jpg';
+let farmacias29 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias29.jpg';
+let farmacias30 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias30.jpg';
+let farmacias31 = 'https://imagenes.kagencia.com/MareaRoja/farmacias/farmacias31.jpg';
 
 // TIENDAS MAYORISTAS
-let planInvencibles00 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles00.jpg';
 let planInvencibles01 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles01.jpg';
 let planInvencibles02 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles02.jpg';
 let planInvencibles03 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles03.jpg';
@@ -67,6 +79,10 @@ let planInvencibles11 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencible
 let planInvencibles12 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles12.jpg';
 let planInvencibles13 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles13.jpg';
 let planInvencibles14 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles14.jpg';
+let planInvencibles15 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles15.jpg';
+let planInvencibles16 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles16.jpg';
+let planInvencibles17 = 'https://imagenes.kagencia.com/MareaRoja/plan_invencibles/planInvencibles17.jpg';
+
 
 // PORTAFOLIO
 let Portafolio01 = 'https://imagenes.kagencia.com/MareaRoja/portafolio/Portafolio01.jpg';
@@ -144,7 +160,13 @@ export const ImgSliders = {
       { imgSlider: droguerias22 },
       { imgSlider: droguerias23 },
       { imgSlider: droguerias24 },
-      { imgSlider: droguerias25 }
+      { imgSlider: droguerias25 },
+      { imgSlider: droguerias26 },
+      { imgSlider: droguerias27 },
+      { imgSlider: droguerias28 },
+      { imgSlider: droguerias29 },
+      { imgSlider: droguerias30 },
+      { imgSlider: droguerias31 },
    ],
    Farmacias:[
       { imgSlider: farmacias01 },
@@ -170,10 +192,16 @@ export const ImgSliders = {
       { imgSlider: farmacias21 },
       { imgSlider: farmacias22 },
       { imgSlider: farmacias23 },
-      { imgSlider: farmacias24 }
+      { imgSlider: farmacias24 },
+      { imgSlider: farmacias25 },
+      { imgSlider: farmacias26 },
+      { imgSlider: farmacias27 },
+      { imgSlider: farmacias28 },
+      { imgSlider: farmacias29 },
+      { imgSlider: farmacias30 },
+      { imgSlider: farmacias31 },
    ],
    PlanInvencibles:[
-      { imgSlider: planInvencibles00 },
       { imgSlider: planInvencibles01 },
       { imgSlider: planInvencibles02 },
       { imgSlider: planInvencibles03 },
@@ -188,6 +216,9 @@ export const ImgSliders = {
       { imgSlider: planInvencibles12 },
       { imgSlider: planInvencibles13 },
       { imgSlider: planInvencibles14 },
+      { imgSlider: planInvencibles15 },
+      { imgSlider: planInvencibles16 },
+      { imgSlider: planInvencibles17 },
    ],
    Portafolio:[
       {imgSlider: Portafolio01},
